@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-This costs 200
+This costs 200,000
 
 Life is good.
-=======
-This costs 300
->>>>>>> 444d3f996f0533c7d9821b21bc63526757196312
+
+
